@@ -4,7 +4,13 @@ this is a simple but interesting split screen project with Html/CSS/JavaScript l
 最后提一句，使用CSS中的@media实现了简单的响应式屏幕大小，并且使用javascript/JQury/CSS实现了分页效果.
 效果展示：
 加锁的页面
-![](https://github.com/xiaobingscuer/interesting-split-screen/blob/master/img/lock.png).
+![](https://github.com/xiaobingscuer/interesting-split-screen/blob/master/img/lock.png)
 开锁的页面
+![](https://github.com/xiaobingscuer/interesting-split-screen/blob/master/img/open.png)
 开锁后的页面
+![](https://github.com/xiaobingscuer/interesting-split-screen/blob/master/img/screen.png)
 分屏
+![](https://github.com/xiaobingscuer/interesting-split-screen/blob/master/img/screenmore.png)
+![](https://github.com/xiaobingscuer/interesting-split-screen/blob/master/img/screenmorem.png)
+![](https://github.com/xiaobingscuer/interesting-split-screen/blob/master/img/screenbaidu.png).
+
