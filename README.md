@@ -5,3 +5,6 @@ this is a simple but interesting split screen project with Html/CSS/JavaScript l
 效果展示：
 加锁的页面
 ![](https://github.com/xiaobingscuer/interesting-split-screen/blob/master/img/lock.png).
+开锁的页面
+开锁后的页面
+分屏
